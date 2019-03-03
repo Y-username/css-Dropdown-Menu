@@ -15,7 +15,29 @@ button {
     cursor: pointer;
     text-transform: uppercase;
 }
- .dropdownMenu{
+.dropdownMenu{
      margin: 0;
+     padding: 0;
      list-style: none;
- }
+     position: absolute;
+     top: 50px;
+     left: 0;
+     right: 0;
+     width: 150px;
+     text-align: center;
+     box-shadow: -2px 28px 58px 25px rgba(0,0,0,0.21);
+}
+
+.dropdownLink{
+    text-decoration: none;
+    padding: 10px 5px;
+    background-color: #f9f9f9;
+    color: #4a4a4f;
+    display: block;
+    transition: background-color .5s ease-in-out color .5s ease-in-out;
+}
+
+.dropdownLink:hover{
+    color: white;
+    background-color: gray;
+}

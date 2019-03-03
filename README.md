@@ -1,7 +1,7 @@
 # CSS Dropdown Menu
 
-#### learning pointer
-1. build the basic structure by using "<nav>", "<button>", <ul>, <li> and <a> elements
+#### learning point
+1. build the basic structure by using nav, button, ul, li and a elements
 2. styling nav bar and button
 3. delete underline of Link by link-style: none
 4. remove default padding of the menu

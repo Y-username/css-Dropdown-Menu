@@ -12,7 +12,7 @@
 9. to make nav bar rolldown from button, set the default Y-axis position of dropdownmenu to -100%, and make it change to 0 when hovered
 10. to make the rolldown effect less jerky, set up transform duration and time function!!!
 11. in order to fix the problem that link sit on top of Dropdown Button, need to use a z-index property, which for elements stack upon eachother
-
+12. .dropdown:hover .dropdownMenu means it select the div with .dropdownMenu class when the div with .dropdown class is hovered
 
 #### unsloved
 1. why my nav bar have a rollin effect when the website is refreshed???

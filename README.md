@@ -16,3 +16,4 @@
 
 #### unsloved
 1. why my nav bar have a rollin effect when the website is refreshed???
+2. the using case of transition and transformation https://thoughtbot.com/blog/transitions-and-transforms
